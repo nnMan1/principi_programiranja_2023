@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710175330 source:/home/velibor/MEGAsync/Posao/Principi programiranja/Vjezbe/2023-2024/C/cas4/cas4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"my_lib.h"
+
+1710173323 /home/velibor/MEGAsync/Posao/Principi programiranja/Vjezbe/2023-2024/C/cas4/cas4/my_lib.h
+
+1710173897 source:/home/velibor/MEGAsync/Posao/Principi programiranja/Vjezbe/2023-2024/C/cas4/cas4/my_lib.c
+
