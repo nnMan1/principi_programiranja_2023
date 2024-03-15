@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1710500734 source:c:\users\pc\desktop\prinicpi programiranja\2023-2024\cas4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_lib.h"
+
+1710500779 c:\users\pc\desktop\prinicpi programiranja\2023-2024\cas4\my_lib.h
+
+1710500774 source:c:\users\pc\desktop\prinicpi programiranja\2023-2024\cas4\my_lib.c
+

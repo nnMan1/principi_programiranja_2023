@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1709894743 source:c:\users\pc\desktop\prinicpi programiranja\2023-2024\cas3\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<limits.h>
+	"my_lib.h"
+
+1709892043 c:\users\pc\desktop\prinicpi programiranja\2023-2024\cas3\zad1\my_lib.h
+
+1709892035 source:c:\users\pc\desktop\prinicpi programiranja\2023-2024\cas3\zad1\my_lib.c
+
