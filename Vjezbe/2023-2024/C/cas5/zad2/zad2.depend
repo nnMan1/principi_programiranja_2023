@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710780931 source:/home/velibor/MEGAsync/Posao/Principi programiranja/Vjezbe/2023-2024/C/cas5/zad2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

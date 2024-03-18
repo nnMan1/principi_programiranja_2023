@@ -16,18 +16,21 @@ int C() {
     B();
 }
 
+double maksimum(double a, double b) {
+    return a < b ? b : a;
+}
 
 int main()
 {
     char c; //8 bintni cio broj
     short s; //16 bita
-    int n; //32 bit cio broj u drugom komplementu //%d
+    int n, p; //32 bit cio broj u drugom komplementu //%d
     long m; //64 bit cio broj u drugom komplementu //%ld
     float r; //32 floating point //%f
     double g; //64 bitni floating point //%lf
 
-    C();
-    //scanf("%d", &n);
+    scanf("%d %d", &n, &p);
+    printf("%lf", maksimum(n, p));
     //printf("%d", abs(n));
     /*
     if(prost(n))
