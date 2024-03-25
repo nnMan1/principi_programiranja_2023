@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1711382084 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/C/cas6/zad1/arrays.c
+	<stdio.h>
+
+1711382124 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/C/cas6/zad1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrays.h"
+
+1711382024 /home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/C/cas6/zad1/arrays.h
+
