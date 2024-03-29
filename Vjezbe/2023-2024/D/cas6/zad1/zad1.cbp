@@ -31,10 +31,6 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="arrays.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="arrays.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

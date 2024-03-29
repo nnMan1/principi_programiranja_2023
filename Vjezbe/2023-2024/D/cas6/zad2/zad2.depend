@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1711705816 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/D/cas6/zad2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"matr_lib.h"
+
+1711705846 /home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/D/cas6/zad2/matr_lib.h
+
+1711705978 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/D/cas6/zad2/matr_lib.c
+	<stdio.h>
+
