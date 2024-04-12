@@ -74,7 +74,7 @@ int* unos(int *n) {
 int main()
 {
     //int arr[] = {5, 4, 2, 7, 1, 78, 45, 3, 9, 4};
-    int n;
+    /*int n;
     int *arr = unos(&n);
 
     printf("%d\n", max_arr_rec(n, arr));
@@ -87,15 +87,15 @@ int main()
     sort(n, arr, compare_inc);
 
     print_arr_rec(n, arr);
-    printf("\n");
+    printf("\n");*/
 /*
     int (*compare)(int, int) = compare_inc;
     printf("%d", compare(5, 6));
 
-/*
+*/
     int n = 5, m = 6;
     int **matr = malloc(n*sizeof(int*));
-    for(int i=0;i<m;i++)
+    for(int i=0;i<n;i++)
         matr[i] = malloc(m*sizeof(int));
 
     for(int i=0;i<n;i++)
@@ -103,12 +103,12 @@ int main()
             matr[i][j] = i * j;
 
     print_matr(n, m, matr);
-/*
+
     for(int i=0;i<n;i++) {
         free(matr[i]);
-    }/*
+    }
 
-    /*free(matr);
+    free(matr);
 
     /*int *a_ptr = malloc(5*sizeof(int));
 

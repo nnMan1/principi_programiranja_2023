@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1712916094 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/D/cas8/zad1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"my_ctype.h"
+	"my_str_lib.h"
+	<string.h>
+
+1712911212 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/D/cas8/zad1/my_ctype.c
+
+1712915697 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/D/cas8/zad1/my_str_lib.c
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1712911249 /home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/D/cas8/zad1/my_ctype.h
+
+1712915399 /home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/D/cas8/zad1/my_str_lib.h
+
