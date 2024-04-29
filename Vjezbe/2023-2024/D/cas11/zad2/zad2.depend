@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714125844 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/D/cas/zad2/main.c
+	<stdio.h>
+	<stdlib.h>
+
