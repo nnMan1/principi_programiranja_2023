@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714480152 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/C/cas11/zad1/client_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"client_lib.h"
+
+1714479954 source:/home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/C/cas11/zad1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"client_lib.h"
+
+1714479432 /home/velibor/Documents/predavanja/principi_programiranja/principi_programiranja_2023/Vjezbe/2023-2024/C/cas11/zad1/client_lib.h
+
